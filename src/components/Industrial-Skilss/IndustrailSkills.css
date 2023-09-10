@@ -1,0 +1,130 @@
+.ps {
+  height: 100vh;
+  /* padding: 50px 100px; */
+}
+.ps-title {
+  text-align: center;
+  font-size: 60px;
+  font-weight: 400;
+}
+.ps-work-desc {
+  display: flex;
+}
+.ps-working-history {
+  padding: 10px 0px;
+  font-size: 30px;
+  font-weight: 300;
+}
+.ang-img {
+  width: 50%;
+}
+.exp-desc-white,
+.exp-desc-dark {
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+
+.fw-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fw-desc {
+  font-weight: 600;
+}
+
+.exp-desc-white {
+  transform-origin: 50% 65%;
+  transition: transform 1s, filter 3s ease-in-out;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  /* filter: brightness(150%); */
+}
+
+.exp-desc-white:hover {
+  border-radius: 21px;
+  box-shadow: 0px 3px 12px 0px rgb(0 0 0 / 37%);
+  /* filter: brightness(100%); */
+  transform: scale(1.1);
+  background-color: white;
+}
+
+.exp-desc-dark {
+  transform-origin: 50% 65%;
+  transition: transform 1s, filter 3s ease-in-out;
+}
+.exp-desc-dark:hover {
+  border-radius: 21px;
+  box-shadow: 0px 3px 12px 0px rgb(0 0 0 / 37%);
+  /* filter: brightness(100%); */
+  transform: scale(1.1);
+  background-color: #00000030;
+}
+.js-ht {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.industrail-exp-head,.industrail-exp-sub-head  {
+  font-size: 25px;
+  font-weight: bold;
+}
+.industrail-exp-next-head ,.industrail-exp-explain   {
+  font-size: 18px;
+}
+.experience-detail{
+  border-bottom: 4px solid lightgrey;
+  padding-bottom: 16px;
+}
+.experience-below-detail{
+  border-bottom: 4px solid lightgrey;
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+.experience-last-detail{
+  padding-bottom: 16px;
+  padding-top: 16px;
+}
+
+/* .ps-work-desc-left {
+  background-color: red;
+  flex: 1 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ps-work-desc-middle {
+  background-color: blue;
+  flex: 1 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.ps-work-desc-right {
+  background-color: black;
+  flex: 1 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+} */
+
+@media screen and (max-width: 480px) {
+  .ps {
+    flex-direction: column;
+    text-align: center;
+    margin-top: 50px;
+    height: inherit;
+  }
+  .ang-img{
+    width: 20%;
+  }
+  .ps-title{
+    font-size: 40px;
+  }
+  .ps-working-history{
+    font-size: 20px;
+  }
+}
