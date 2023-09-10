@@ -1,0 +1,36 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.5948912b.css",
+    "main.js": "/portfolio-website/static/js/main.4158a803.js",
+    "static/media/AboutME.jpg": "/portfolio-website/static/media/AboutME.7bd0ce6e75c1e3e7a73e.jpg",
+    "static/media/me1_ccexpress.png": "/portfolio-website/static/media/me1_ccexpress.8ee87a0322d8425f0f27.png",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/portfolio-website/static/media/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg",
+    "static/media/javascript.png": "/portfolio-website/static/media/javascript.a031633e09f8cbbcff12.png",
+    "static/media/svn.png": "/portfolio-website/static/media/svn.f91944cc0d425bf0d710.png",
+    "static/media/fontawesome-webfont.eot": "/portfolio-website/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/portfolio-website/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/portfolio-website/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/portfolio-website/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "static/media/react.png": "/portfolio-website/static/media/react.9042c1383201999a5e19.png",
+    "static/media/resume.pdf": "/portfolio-website/static/media/resume.f7d79094b48552c67f24.pdf",
+    "static/media/award.png": "/portfolio-website/static/media/award.a796a64fbb78cc3a9666.png",
+    "static/media/address.png": "/portfolio-website/static/media/address.a01cb8cc428702f30bec.png",
+    "static/media/angular.png": "/portfolio-website/static/media/angular.ebf6114de2579b8308ba.png",
+    "static/media/email.png": "/portfolio-website/static/media/email.a49e015815e3ac6d2bd3.png",
+    "static/media/express.png": "/portfolio-website/static/media/express.548f1cfd65ae2d062126.png",
+    "static/media/sun.png": "/portfolio-website/static/media/sun.f794832ad72b90c61eb7.png",
+    "static/media/project.png": "/portfolio-website/static/media/project.206bb7804c6525b0892e.png",
+    "static/media/phone.png": "/portfolio-website/static/media/phone.d90a6d23cf5129d853bb.png",
+    "static/media/moon.png": "/portfolio-website/static/media/moon.3bea3d398a25611d421b.png",
+    "static/media/git.png": "/portfolio-website/static/media/git.8ed91d416ca1b9747bfc.png",
+    "static/media/typescript.png": "/portfolio-website/static/media/typescript.bb13ebd9561a6ee645c2.png",
+    "static/media/rxjs.png": "/portfolio-website/static/media/rxjs.1c57c976478177e4a543.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.5948912b.css.map": "/portfolio-website/static/css/main.5948912b.css.map",
+    "main.4158a803.js.map": "/portfolio-website/static/js/main.4158a803.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5948912b.css",
+    "static/js/main.4158a803.js"
+  ]
+}
